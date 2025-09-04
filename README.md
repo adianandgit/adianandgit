@@ -1,6 +1,8 @@
-<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRpcW4zZGtodGdwNzRyOWRpYm1lZzdibXoycnh5NHRyOGNlZXRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
 # Hi there 👋 I'm Aditya Anand  
+<br>
+<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRpcW4zZGtodGdwNzRyOWRpYm1lZzdibXoycnh5NHRyOGNlZXRoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">  
+<br>
+ 
 
 🌱 I’m currently learning **Full Stack Web Development**  
 💬 Ask me about **Mathematics, Machine Learning, Computer Architecture**  
