@@ -24,12 +24,4 @@
 - **Other Interests:** Formal and Computational Mathematics • Astronomy • Computational Physics • First Principles Thinking  
 
 ---
----
-
-## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandadi)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:anaditya24@iitk.ac.in)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/adianandgit)  
-
----
 ✨ *"I love building things from scratch, keeping minimal abstractions, and explaining concepts from first principles."*
