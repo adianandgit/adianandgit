@@ -7,7 +7,7 @@
 🌱 I’m currently learning **Full Stack Web Development**  
 💬 Ask me about **Mathematics, Machine Learning, Computer Architecture**  
 
-⚡ Fun fact: **I also do Improvisational Comedy**  
+⚡ Fun fact: **I also do Comedy**  
 
 
 ## 🌐 Socials:
